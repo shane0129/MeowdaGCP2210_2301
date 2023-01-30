@@ -1,0 +1,9 @@
+# LineBot -------------------------------------
+line-bot-sdk
+Flask
+pymongo
+uwsgi
+numpy>=1.18.5
+Pillow>=7.1.2
+requests>=2.23.0
+# google-cloud-storage

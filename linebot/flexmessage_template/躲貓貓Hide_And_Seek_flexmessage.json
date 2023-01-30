@@ -1,0 +1,144 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://storage.googleapis.com/meowda/meowda_image/heroimageHide_And_Seek.jpg",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://linecorp.com"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "md",
+    "action": {
+      "type": "uri",
+      "uri": "https://linecorp.com"
+    },
+    "contents": [
+      {
+        "type": "text",
+        "text": "躲貓貓",
+        "size": "xxl",
+        "weight": "bold"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "攻擊力",
+                "weight": "bold",
+                "margin": "lg",
+                "flex": 0
+              },
+              {
+                "type": "icon",
+                "url": "https://i.imgur.com/VckcSY0.png",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "親和力",
+                "weight": "bold",
+                "flex": 0,
+                "margin": "lg"
+              },
+              {
+                "type": "icon",
+                "url": "https://i.imgur.com/VckcSY0.png",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "好奇心",
+                "weight": "bold",
+                "flex": 0,
+                "margin": "lg"
+              },
+              {
+                "type": "icon",
+                "url": "https://i.imgur.com/VckcSY0.png",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "活動力",
+                "weight": "bold",
+                "flex": 0,
+                "margin": "lg"
+              },
+              {
+                "type": "icon",
+                "url": "https://i.imgur.com/VckcSY0.png",
+                "size": "lg"
+              },
+              {
+                "type": "icon",
+                "url": "https://i.imgur.com/VckcSY0.png",
+                "size": "lg"
+              },
+              {
+                "type": "icon",
+                "url": "https://i.imgur.com/VckcSY0.png",
+                "size": "lg"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "可愛度",
+                "weight": "bold",
+                "flex": 0,
+                "position": "relative",
+                "margin": "lg"
+              },
+              {
+                "type": "icon",
+                "url": "https://i.imgur.com/VckcSY0.png",
+                "size": "lg"
+              },
+              {
+                "type": "icon",
+                "url": "https://i.imgur.com/VckcSY0.png",
+                "size": "lg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
